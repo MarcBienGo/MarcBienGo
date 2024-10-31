@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [My Online Portfolio](https://marcbiengo.github.io/my-portfolio/)
 
-- 🌱 I’m currently brushing up on **React and Node**
+- 🌱 I’m currently brushing up on **React** and **Node**
 
 - 📫 You can reach me at **marcbiengo@gmail.com**
 
