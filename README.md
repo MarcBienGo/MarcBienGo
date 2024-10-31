@@ -7,9 +7,9 @@
 
 - 📫 You can reach me at **marcbiengo@gmail.com**
 
-- ⚡ Fun Fact#1 **Online friends call me Dreamweaver, based on the Adobe web development tool of the same name.**
+- ⚡ Fun Fact#1: **Online friends call me Dreamweaver, based on the Adobe web development tool of the same name.**
 
-- ⚡ Fun Fact#2 **From video games to novels, I am a huge fan of the fantasy genre!**
+- ⚡ Fun Fact#2: **From video games to novels, I am a huge fan of the fantasy genre!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
