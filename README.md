@@ -3,13 +3,13 @@
 
 - 💻 I’m currently working on [My Online Portfolio](https://marcbiengo.github.io/my-portfolio/)
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently brushing up on **React and Node**
 
-- 📫 How to reach me **marcbiengo@gmail.com**
+- 📫 You can reach me at **marcbiengo@gmail.com**
 
-- ⚡ Fun fact#1 **Friends I've made online call me Dreamweaver, based on the Adobe web development tool of the same name.**
+- ⚡ Fun Fact#1 **Online friends call me Dreamweaver, based on the Adobe web development tool of the same name.**
 
-- ⚡ Fun fact#2 **From video games to novels, I am a huge fan of the fantasy genre!**
+- ⚡ Fun Fact#2 **From video games to novels, I am a huge fan of the fantasy genre!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
