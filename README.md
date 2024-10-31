@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marc!</h1>
-<h3 align="center">A full stack web🕸️developer born in the Philippines now living in Canada.</h3>
+<h3 align="center">A full stack web🕸️developer born in the Philippines currently studying in Canada.</h3>
 
 - 💻 I’m currently working on [My Online Portfolio](https://marcbiengo.github.io/my-portfolio/)
 
